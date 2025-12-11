@@ -8,6 +8,8 @@ https://drive.google.com/drive/folders/1DczLIUB--G7M3A9KC132PffXMvOKU5Hp?usp=sha
 # Images of Prototype
 ![WhatsApp Image 2025-08-18 at 23 09 53_73414274](https://github.com/user-attachments/assets/19c5bdbc-007f-4539-8e8a-b1b3613a6410)
 
+<img width="2544" height="1317" alt="Screenshot 2025-08-19 at 6 51 49 PM" src="https://github.com/user-attachments/assets/19c5bdbc-007f-4539-8e8a-b1b3613a6410" />
+
 ![WhatsApp Image 2025-08-18 at 23 10 02_9b647a3e](https://github.com/user-attachments/assets/f861899a-78af-4810-b571-b4623f5e3dc9)
 
 ![WhatsApp Image 2025-08-18 at 23 10 35_16a4ccea](https://github.com/user-attachments/assets/7107d48b-3698-4237-87be-9c7c7dcd5fe4)
