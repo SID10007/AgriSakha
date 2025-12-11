@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tboengage",
+  "private_key_id": "ba8fc229b459124b8384a8b1ec4a42bbc33195c7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAY4j62yOXSWFl\nnLxMmnxqHPBeHtu0qmGDGh0+gPstwf5qyBRlruy3NgObFDFyRvo+05qr3vjOjzGt\nhGcMvuCZ7AtFw8L+LiYrHN8JwKc9kyJEPOEB2RJF+4TjIeNiE0VJPdAEtPjvmnTP\nDylr0VIJ5Miqrqyh+Mm1R+lYo3sIF/3snKenI+0PMGDIETqmQICK64LIbYyCk4+9\nP5sQeq5KPmMXZkLf9SeOR8NdeFHFIKougJ7eilpwUvxHnio0KmTivoY3qCzS/i6a\nJtTBWG9A7yn3dLN20RWGK2X6xfJe/MKGm+YJlufWlmXn/Iwn5aw4v+0CQGO4PPzY\n1wEW3x73AgMBAAECggEAC9Irb0gNTpUvRNao9m2V/QPvyPiznmaYCaQn7XIJybmR\nVlWA21aW+N+t83Aw/mKNRO4sVlvwhOox4gV9B3Pa/Q1bclshUHJ2Q4PjBTuViw6b\ntmTY0Ava0ZRiVkpiXEfu1x2f+goPzNKvhq5ANbDtp4OR/A3+t90MSvUy/N1FCMde\nydzxQTH0dfCoIhkLESuj/5SbRg1VvImOxsnZt6dC+3LAeuGt65QycS04QhkaIZuK\nMLXApSHyZbotZLe6SnSHTAONYNKqV5C3FxYd1FKhZqUeBKQi9vvgZRqtKiuDqci0\nkN7BfaB7oXDv6PtqcJQh3nFeX8g9Iqgqx3O91WCkEQKBgQD2D7vZUQlXhVcoKs3g\nChwr6RUOTI5Sqx5zIwZEOfEVefJUWuuBDNm3R2PLOW/pNpD1rDn7AlGLTm7rtcHY\nc4HRsYkOCJmi/VronsHGhnBuxacipG/AlgxO8fJhrdjlAHGG+6CG17PxcX/s9al1\nXRZfmPKjfCjZv+6OBgl9mXQj3QKBgQDIKNP+pNVV8hb8K8Wu2DzsSwiMRQHMWYym\n/m19Fx4KQsxUQjqso1fIIA436Scwaf0xRrKuQWtrI25Uo4oKkD1Alndr9Ci1LWeM\nYkHUBOpVYuMH5iuz/t/sVJsh8s+kCJgAXqZ9ghFeLZBy38DAvR4gzEAgVLgyIURZ\nB283FDx64wKBgQCFaQBzkkFbZ5ta1uJqv3CIykY1S4K7BbZrvKiwIy44c7bUz7ry\nbFI60gUkcY7gxkoQOYHyO06VFkCDojdosS/IztY9eqI6Qd2hVDpB9jBNjvLQkJFa\nvMANqZa+KTD48KWdBx8BHUCd/ujaRFPNo1v3FwkvZKkNbsfbzyAkLihPLQKBgEEw\nCtsEE/bJwXKfTuKCylSqmz4Tu2IyR/ybIE19Get9lc5bQ4C2MgCbcAYFiR3bZvqF\na+wUokdiYqxuFqcaEtjWKE6gViGrh+3Qkl/aufbVHduUuucEOylc5KlJyxZBNj/o\nk5CMq9tgO4suFDixXv6PhtMAxHyPGRNluHLXxFrBAoGAXvlfBzzvn3Z+3Fiq4rTI\ns/Bp8LjtStLHhGp1cQUZ2e5QG4d2qSUwe5TmKtkdo2yA6i3UMpDgMCxXzqySyZgG\nG6mvOFMxPBXjlNf/cDQYeVDflHzwEheKKX5s3xqfeCyz7Y+as3LZ7HAihSSQGY3I\n7DKAQR05xqnDzaw+PzSnpCE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "siddharth-gemini@tboengage.iam.gserviceaccount.com",
+  "client_id": "107786347661130258141",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/siddharth-gemini%40tboengage.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
