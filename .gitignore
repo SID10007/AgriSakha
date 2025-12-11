@@ -7,3 +7,6 @@ frontend/.env
 frontend/.env.*
 frontend/community-feature-main/.env
 frontend/community-feature-main/.env.*
+
+# Sensitive credential files
+backend/translation.json
